@@ -30,7 +30,7 @@ Um aplicativo para encontrar Devs com conhecimento em determinadas tecnologias, 
 <img src="https://github.com/MaisDennis/Omnistack10-devradar/blob/master/Web.png" alt="Web" width="100%" height="auto">
 
 ### Mobile
-<img src="https://github.com/MaisDennis/Omnistack10-devradar/blob/master/Mobile.png" alt="Mobile" width="100%" height="auto">
+<img src="https://github.com/MaisDennis/Omnistack10-devradar/blob/master/Mobile.png" alt="Mobile" width="30%" height="auto">
 
 
 ##  3. Iniciando o projeto
